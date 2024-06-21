@@ -7,12 +7,12 @@ class SlotMachineGame
 
     static void Main(string[] args)
     {
-        Console.WriteLine("Welcome to the Slot Machine Game!");
+        Console.WriteLine("Slot Machine Game");
 
         bool playAgain = true;
         while (playAgain)
         {
-            Console.Write("Enter your wager amount: $");
+            Console.Write("Enter the wager amount: $");
             int wager = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Select lines to play:");
@@ -71,6 +71,6 @@ class SlotMachineGame
             playAgain = response == "yes";
         }
 
-        Console.WriteLine("Thank you for playing!");
+        Console.WriteLine("Thank you for playing");
     }
 }
