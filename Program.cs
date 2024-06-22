@@ -2,7 +2,7 @@
 
 class SlotMachineGame
 { 
-    static Random random = new Random();
+    static Random random= new Random();
     static char[] symbols = { 'A', 'B', 'C', 'D', 'E' };
 
     static void Main(string[] args)
