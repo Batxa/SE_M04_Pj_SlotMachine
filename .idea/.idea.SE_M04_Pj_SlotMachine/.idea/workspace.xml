@@ -7,7 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1230db3-5df0-4e6d-97a6-5ff44f86cd2c" name="Changes" comment="commit3">
+    <list default="true" id="e1230db3-5df0-4e6d-97a6-5ff44f86cd2c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SE_M04_Pj_SlotMachine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SE_M04_Pj_SlotMachine/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +23,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="mock:///Users/Juan/Documents/GitHub/SE_M04_Pj_SlotMachine/Program.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Users/Juan/Documents/GitHub/SE_M04_Pj_SlotMachine/Program.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -34,27 +35,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    ".NET Project.SE_M04_Pj_SlotMachine.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "settings.sync",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;.NET Project.SE_M04_Pj_SlotMachine.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;HotReloadSettingsPage&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "/Users/Juan/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache",
-      "/Users/Juan/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache",
-      "/Users/Juan/Library/Application Support/Symbols/src"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [],
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/Users/Juan/Library/Application Support/JetBrains/Rider2024.1/resharper-host/DecompilerCache&quot;,
+      &quot;/Users/Juan/Library/Application Support/JetBrains/Rider2024.1/resharper-host/SourcesCache&quot;,
+      &quot;/Users/Juan/Library/Application Support/Symbols/src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="SE_M04_Pj_SlotMachine" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -85,7 +87,8 @@
       <updated>1718945665617</updated>
       <workItem from="1718945666542" duration="2409000" />
       <workItem from="1719008207581" duration="180000" />
-      <workItem from="1719010512813" duration="3126000" />
+      <workItem from="1719010512813" duration="4857000" />
+      <workItem from="1720208164619" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="Commmit1">
       <option name="closed" value="true" />
@@ -111,7 +114,31 @@
       <option name="project" value="LOCAL" />
       <updated>1718948545127</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit&amp;push1">
+      <option name="closed" value="true" />
+      <created>1719022007909</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719022007909</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commitpush1">
+      <option name="closed" value="true" />
+      <created>1719022055970</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719022055970</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commitpush1">
+      <option name="closed" value="true" />
+      <created>1719022135575</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1719022135575</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +151,8 @@
     <MESSAGE value="Commmit1" />
     <MESSAGE value="commit1" />
     <MESSAGE value="commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Commit&amp;push1" />
+    <MESSAGE value="commitpush1" />
+    <option name="LAST_COMMIT_MESSAGE" value="commitpush1" />
   </component>
 </project>
