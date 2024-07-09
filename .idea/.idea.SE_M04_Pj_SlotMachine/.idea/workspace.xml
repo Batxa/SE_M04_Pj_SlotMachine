@@ -7,9 +7,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e1230db3-5df0-4e6d-97a6-5ff44f86cd2c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.SE_M04_Pj_SlotMachine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SE_M04_Pj_SlotMachine/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e1230db3-5df0-4e6d-97a6-5ff44f86cd2c" name="Changes" comment="ok" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,6 +88,7 @@
       <workItem from="1719010512813" duration="4857000" />
       <workItem from="1720208164619" duration="19000" />
       <workItem from="1720502641349" duration="540000" />
+      <workItem from="1720503192012" duration="142000" />
     </task>
     <task id="LOCAL-00001" summary="Commmit1">
       <option name="closed" value="true" />
@@ -147,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720502825771</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="ok">
+      <option name="closed" value="true" />
+      <created>1720503307137</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1720503307137</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +181,7 @@
     <MESSAGE value="Commit&amp;push1" />
     <MESSAGE value="commitpush1" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
   </component>
 </project>
